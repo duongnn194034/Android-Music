@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Eco-mart\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\60f71ed19b4398c307947c439681bf44\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

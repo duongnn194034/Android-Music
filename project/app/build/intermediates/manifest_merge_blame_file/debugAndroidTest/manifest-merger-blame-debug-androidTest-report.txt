@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.iven.musicplayergo.test" >
+4
+5    <uses-sdk
+5-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:5:15-41
+7        android:targetSdkVersion="27" />
+7-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:11:5-15:72
+10        android:name="android.test.InstrumentationTestRunner"
+10-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:11:22-75
+11        android:functionalTest="false"
+11-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:13:22-53
+13        android:label="Tests for com.iven.musicplayergo"
+13-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:15:22-70
+14        android:targetPackage="com.iven.musicplayergo" />
+14-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:12:22-68
+15
+16    <application android:debuggable="true" >
+16-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:8:9-60
+17-->D:\Workspace\Music-Player-GO\project\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest16118973261871723792.xml:8:23-57
+18    </application>
+19
+20</manifest>

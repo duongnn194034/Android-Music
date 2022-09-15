@@ -1,0 +1,2 @@
+com/iven/musicplayergo/test/BuildConfig.java
+ com.iven.musicplayergo.test.BuildConfig
