@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "outputFile": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
             "map": [
                 {
-                    "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\values-fr\\strings.xml",
                     "from": {
                         "startLines": "1,9,4,5,2,8,6,3,7",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

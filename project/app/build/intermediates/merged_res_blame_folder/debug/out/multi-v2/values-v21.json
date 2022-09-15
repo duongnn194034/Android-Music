@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Eco-mart\\.gradle\\caches\\transforms-3\\b35de9cc68c1cbcd0a9b3ce0ae092362\\transformed\\support-media-compat-27.1.1\\res\\values-v21\\values-v21.xml",

@@ -1,218 +1,218 @@
 [
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_equalizer.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_equalizer.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_play_notification.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_play_notification.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_controls_panel.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\controls_panel.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_player_seek.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\player_seek.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_player_buttons.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\player_buttons.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_repeat.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_repeat.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_skip_next_notification.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_skip_next_notification.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_player_seek.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\player_seek.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settings.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_repeat.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_repeat.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_artist_details.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\artist_details.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_artist_item.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\artist_item.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_close.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_close.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_song_item.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\song_item.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_sliding_panel.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\sliding_panel.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_equalizer.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_equalizer.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_github.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_github.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_checkbox_blank.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_checkbox_blank.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_settings_view.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\settings_view.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_controls_panel.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\controls_panel.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_skip_previous_notification.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_skip_previous_notification.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_pause.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_pause.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_color_option.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\color_option.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_pause_notification.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_pause_notification.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ripple.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ripple.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_music_notification.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\music_notification.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_play.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_play.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_skip_previous.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_skip_previous.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_artist_details.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\artist_details.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_skip_previous_notification.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_skip_previous_notification.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ripple.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ripple.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_checkbox_marked.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_checkbox_marked.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settings.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_settings.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_invert_colors.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_invert_colors.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_album_item.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\album_item.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_skip_next_notification.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_skip_next_notification.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_album_item.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\album_item.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_main_activity.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\main_activity.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_player_info.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\player_info.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_color_option.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\color_option.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_skip_next.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_skip_next.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_skip_next.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_skip_next.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_main_activity.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\main_activity.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_invert_colors.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_invert_colors.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_checkbox_marked.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_checkbox_marked.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_pause.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_pause.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_music_notification.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\music_notification.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_artist_item.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\artist_item.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_folder.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_folder.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_skip_previous.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_skip_previous.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_play_notification.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_play_notification.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_folder.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_folder.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_checkbox_blank.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_checkbox_blank.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_close.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_close.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_pause_notification.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_pause_notification.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_sliding_panel.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\sliding_panel.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_song_item.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\song_item.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_player_buttons.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\player_buttons.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_github.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\drawable\\ic_github.xml"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_play.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\drawable\\ic_play.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_player_info.xml.flat",
-        "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\layout\\player_info.xml"
+        "merged": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\merged_res\\debug\\layout_settings_view.xml.flat",
+        "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\layout\\settings_view.xml"
     }
 ]

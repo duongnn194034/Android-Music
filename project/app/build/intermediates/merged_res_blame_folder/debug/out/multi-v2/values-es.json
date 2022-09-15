@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Workspace\\Music-Player-GO\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+            "outputFile": "D:\\Git\\Android-Music\\project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
             "map": [
-                {
-                    "source": "D:\\Workspace\\Music-Player-GO\\project\\app\\src\\main\\res\\values-es\\strings.xml",
-                    "from": {
-                        "startLines": "1,9,4,5,2,8,6,3,7",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "16,578,175,242,68,498,299,111,366",
-                        "endColumns": "51,104,66,56,42,79,66,63,131",
-                        "endOffsets": "63,678,237,294,106,573,361,170,493"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,107,212,279,336,379,459,526,590",
-                        "endColumns": "51,104,66,56,42,79,66,63,131",
-                        "endOffsets": "102,207,274,331,374,454,521,585,717"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Eco-mart\\.gradle\\caches\\transforms-3\\ba6ed871354da306725bbd2eca26d933\\transformed\\support-compat-27.1.1\\res\\values-es\\values-es.xml",
                     "from": {
@@ -35,6 +18,23 @@
                         "startOffsets": "722",
                         "endColumns": "100",
                         "endOffsets": "818"
+                    }
+                },
+                {
+                    "source": "D:\\Git\\Android-Music\\project\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "1,9,4,5,2,8,6,3,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,578,175,242,68,498,299,111,366",
+                        "endColumns": "51,104,66,56,42,79,66,63,131",
+                        "endOffsets": "63,678,237,294,106,573,361,170,493"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,212,279,336,379,459,526,590",
+                        "endColumns": "51,104,66,56,42,79,66,63,131",
+                        "endOffsets": "102,207,274,331,374,454,521,585,717"
                     }
                 }
             ]
