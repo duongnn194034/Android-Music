@@ -27,15 +27,9 @@ import android.support.v4.graphics.ColorUtils;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.text.Spanned;
-import android.view.Gravity;
-import android.view.MotionEvent;
-import android.view.View;
-import android.view.ViewTreeObserver;
-import android.widget.ImageButton;
-import android.widget.LinearLayout;
-import android.widget.SeekBar;
-import android.widget.TextView;
-import android.widget.Toast;
+import android.view.*;
+import android.view.inputmethod.EditorInfo;
+import android.widget.*;
 
 import com.iven.musicplayergo.adapters.AlbumsAdapter;
 import com.iven.musicplayergo.adapters.ArtistsAdapter;
@@ -79,6 +73,8 @@ public class MainActivity extends FragmentActivity implements LoaderManager.Load
     private MusicService mMusicService;
     private PlaybackListener mPlaybackListener;
     private MusicNotificationManager mMusicNotificationManager;
+    private SearchView mSearchView;
+    private SearchView mSearchView2;
     private final ServiceConnection mConnection = new ServiceConnection() {
         @Override
         public void onServiceConnected(ComponentName componentName, IBinder iBinder) {
@@ -196,6 +192,8 @@ public class MainActivity extends FragmentActivity implements LoaderManager.Load
 
         getViews();
 
+        setSearchView();
+
         initializeSettings();
 
         setupSlidingUpPanel();
@@ -232,9 +230,10 @@ public class MainActivity extends FragmentActivity implements LoaderManager.Load
         mSettingsView = findViewById(R.id.settings_view);
 
         mEqButton = findViewById(R.id.eq);
+        mSearchView = findViewById(R.id.search_bar);
+        mSearchView2 = findViewById(R.id.search_bar2);
     }
 
-    //https://stackoverflow.com/questions/6183874/android-detect-end-of-long-press
     private void setupPlayerInfoView() {
         mPlayerInfoView.setOnLongClickListener(new View.OnLongClickListener() {
             @Override
@@ -633,4 +632,43 @@ public class MainActivity extends FragmentActivity implements LoaderManager.Load
             updateResetStatus(true);
         }
     }
+
+    public boolean setSearchView() {
+        mSearchView2.setImeOptions(EditorInfo.IME_ACTION_DONE);
+        mSearchView2.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String s) {
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String s) {
+                mSongsAdapter.getFilter().filter(s);
+                return false;
+            }
+        });
+        return true;
+    }
+
+//    @Override
+//    public boolean onCreateOptionsMenu(Menu menu) {
+//        MenuInflater menuInflater = getMenuInflater();
+//        menuInflater.inflate(R.menu.songs_menu, menu);
+//        MenuItem searchItems = menu.findItem(R.id.action_search);
+//        SearchView searchView = (SearchView) searchItems.getActionView();
+//        searchView.setImeOptions(EditorInfo.IME_ACTION_DONE);
+//        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+//            @Override
+//            public boolean onQueryTextSubmit(String s) {
+//                return false;
+//            }
+//
+//            @Override
+//            public boolean onQueryTextChange(String s) {
+//                mSongsAdapter.getFilter().filter(s);
+//                return false;
+//            }
+//        });
+//        return true;
+//    }
 }

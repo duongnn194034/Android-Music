@@ -17,17 +17,6 @@
         android:orientation="horizontal">
 
         <ImageButton
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="?android:attr/selectableItemBackground"
-            android:contentDescription="@string/app_name"
-            android:foreground="@drawable/ripple"
-            android:onClick="openGitPage"
-            android:padding="16dp"
-            android:src="@drawable/ic_github" />
-
-        <ImageButton
             android:id="@+id/eq"
             android:layout_width="0dp"
             android:layout_height="wrap_content"

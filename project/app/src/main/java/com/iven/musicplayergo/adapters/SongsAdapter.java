@@ -7,6 +7,8 @@ import android.text.Spanned;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Filter;
+import android.widget.Filterable;
 import android.widget.TextView;
 
 import com.iven.musicplayergo.R;
@@ -14,9 +16,10 @@ import com.iven.musicplayergo.Utils;
 import com.iven.musicplayergo.models.Album;
 import com.iven.musicplayergo.models.Song;
 
+import java.util.ArrayList;
 import java.util.List;
 
-public class SongsAdapter extends RecyclerView.Adapter<SongsAdapter.SimpleViewHolder> {
+public class SongsAdapter extends RecyclerView.Adapter<SongsAdapter.SimpleViewHolder> implements Filterable {
 
     private final SongSelectedListener mSongSelectedListener;
     private final Activity mActivity;
@@ -64,6 +67,11 @@ public class SongsAdapter extends RecyclerView.Adapter<SongsAdapter.SimpleViewHo
         return mSongs.size();
     }
 
+    @Override
+    public Filter getFilter() {
+        return songFilter;
+    }
+
     public interface SongSelectedListener {
         void onSongSelected(Song song, Album album);
     }
@@ -86,4 +94,30 @@ public class SongsAdapter extends RecyclerView.Adapter<SongsAdapter.SimpleViewHo
             mSongSelectedListener.onSongSelected(song, mAlbum);
         }
     }
+
+    private Filter songFilter = new Filter() {
+        @Override
+        protected FilterResults performFiltering(CharSequence charSequence) {
+            List<Song> filterList = new ArrayList<>();
+            if (charSequence == null || charSequence.length() == 0) {
+                filterList.addAll(mSongs);
+            } else {
+                String filterPattern = charSequence.toString().toLowerCase().trim();
+                for (Song song : mSongs) {
+                    if (song.title.toLowerCase().contains(filterPattern)) {
+                        filterList.add(song);
+                    }
+                }
+            }
+
+            FilterResults filterResults = new FilterResults();
+            filterResults.values = filterList;
+            return filterResults;
+        }
+
+        @Override
+        protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
+
+        }
+    };
 }
