@@ -18,7 +18,7 @@ class AlbumProvider {
         List<Album> albums = new ArrayList<>();
         if (songs != null) {
             for (Song song : songs) {
-                getAlbum(albums, song.albumName).songs.add(song);
+                getAlbum(albums, song).songs.add(song);
             }
         }
         if (albums.size() > 1) {
@@ -35,9 +35,10 @@ class AlbumProvider {
         });
     }
 
-    private static Album getAlbum(List<Album> albums, String albumName) {
+    private static Album getAlbum(List<Album> albums, Song song) {
         for (Album album : albums) {
-            if (!album.songs.isEmpty() && album.songs.get(0).albumName.equals(albumName)) {
+            if (!album.songs.isEmpty() && album.songs.get(0).albumName.equals(song.albumName)
+                && album.getArtistId() == song.artistId) {
                 return album;
             }
         }
