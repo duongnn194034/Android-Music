@@ -230,7 +230,6 @@ public class MainActivity extends FragmentActivity implements LoaderManager.Load
         mSettingsView = findViewById(R.id.settings_view);
 
         mEqButton = findViewById(R.id.eq);
-        mSearchView = findViewById(R.id.search_bar);
         mSearchView2 = findViewById(R.id.search_bar2);
     }
 
@@ -601,6 +600,7 @@ public class MainActivity extends FragmentActivity implements LoaderManager.Load
         mPlayerAdapter.setSelectedAlbum(album);
         if (mSongsAdapter != null) {
             mSongsAdapter.swapSongs(album);
+            mSearchView2.setQuery("", true);
         } else {
             LinearLayoutManager songsLayoutManager = new LinearLayoutManager(this);
             mSongsRecyclerView.setLayoutManager(songsLayoutManager);
@@ -649,26 +649,4 @@ public class MainActivity extends FragmentActivity implements LoaderManager.Load
         });
         return true;
     }
-
-//    @Override
-//    public boolean onCreateOptionsMenu(Menu menu) {
-//        MenuInflater menuInflater = getMenuInflater();
-//        menuInflater.inflate(R.menu.songs_menu, menu);
-//        MenuItem searchItems = menu.findItem(R.id.action_search);
-//        SearchView searchView = (SearchView) searchItems.getActionView();
-//        searchView.setImeOptions(EditorInfo.IME_ACTION_DONE);
-//        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
-//            @Override
-//            public boolean onQueryTextSubmit(String s) {
-//                return false;
-//            }
-//
-//            @Override
-//            public boolean onQueryTextChange(String s) {
-//                mSongsAdapter.getFilter().filter(s);
-//                return false;
-//            }
-//        });
-//        return true;
-//    }
 }

@@ -24,18 +24,21 @@ public class SongsAdapter extends RecyclerView.Adapter<SongsAdapter.SimpleViewHo
     private final SongSelectedListener mSongSelectedListener;
     private final Activity mActivity;
     private List<Song> mSongs;
+    private List<Song> mFullSongs;
     private Album mAlbum;
 
     public SongsAdapter(@NonNull Activity activity, Album album) {
         mActivity = activity;
         mAlbum = album;
         mSongs = mAlbum.songs;
+        mFullSongs = new ArrayList<>(mSongs);
         mSongSelectedListener = (SongSelectedListener) activity;
     }
 
     public void swapSongs(Album album) {
         mAlbum = album;
         mSongs = mAlbum.songs;
+        mFullSongs = new ArrayList<>(mSongs);
         notifyDataSetChanged();
     }
 
@@ -100,10 +103,10 @@ public class SongsAdapter extends RecyclerView.Adapter<SongsAdapter.SimpleViewHo
         protected FilterResults performFiltering(CharSequence charSequence) {
             List<Song> filterList = new ArrayList<>();
             if (charSequence == null || charSequence.length() == 0) {
-                filterList.addAll(mSongs);
+                filterList.addAll(mFullSongs);
             } else {
                 String filterPattern = charSequence.toString().toLowerCase().trim();
-                for (Song song : mSongs) {
+                for (Song song : mFullSongs) {
                     if (song.title.toLowerCase().contains(filterPattern)) {
                         filterList.add(song);
                     }
@@ -117,7 +120,9 @@ public class SongsAdapter extends RecyclerView.Adapter<SongsAdapter.SimpleViewHo
 
         @Override
         protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
-
+            mSongs.clear();
+            mSongs.addAll((List) filterResults.values);
+            notifyDataSetChanged();
         }
     };
 }
