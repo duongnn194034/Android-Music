@@ -578,6 +578,8 @@ public class MainActivity extends FragmentActivity implements LoaderManager.Load
 
         if (!mSelectedArtist.equals(artist)) {
 
+            mSongsAdapter.updateSongs();
+            SongsAdapter trace = mSongsAdapter;
             //make the panel expandable
             sExpandPanel = true;
 
@@ -600,7 +602,7 @@ public class MainActivity extends FragmentActivity implements LoaderManager.Load
         mPlayerAdapter.setSelectedAlbum(album);
         if (mSongsAdapter != null) {
             mSongsAdapter.swapSongs(album);
-            mSearchView2.setQuery("", true);
+            mSearchView2.setQuery("", false);
         } else {
             LinearLayoutManager songsLayoutManager = new LinearLayoutManager(this);
             mSongsRecyclerView.setLayoutManager(songsLayoutManager);

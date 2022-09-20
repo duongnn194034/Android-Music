@@ -125,4 +125,9 @@ public class SongsAdapter extends RecyclerView.Adapter<SongsAdapter.SimpleViewHo
             notifyDataSetChanged();
         }
     };
+
+    public void updateSongs() {
+        mSongs.clear();
+        mSongs.addAll(mFullSongs);
+    }
 }

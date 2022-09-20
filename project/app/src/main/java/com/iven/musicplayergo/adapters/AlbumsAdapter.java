@@ -23,6 +23,7 @@ public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.SimpleView
     private final int mAccent;
     private List<Album> mAlbums;
     private Album mSelectedAlbum;
+    private SongsAdapter mSongsAdapter;
 
     public AlbumsAdapter(@NonNull Activity activity, List<Album> albums, PlayerAdapter playerAdapter, int accent) {
         mActivity = activity;
@@ -40,6 +41,7 @@ public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.SimpleView
     }
 
     private void updateAlbumsForArtist() {
+
         mSelectedAlbum = mPlayerAdapter.getSelectedAlbum() != null ? mPlayerAdapter.getSelectedAlbum() : mAlbums.get(0);
         mAlbumSelectedListener.onAlbumSelected(mSelectedAlbum);
     }
